@@ -1,3 +1,4 @@
+#fibonacci using memoization
 def fibonacci(n):
   a=0
   b=1
@@ -12,3 +13,8 @@ def fibonacci(n):
   n=int(input())
   res = fibonacci(n)
   print(n)
+
+  
+ 
+
+
